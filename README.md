@@ -11,4 +11,4 @@
 - [BTS 앨범 소개 페이지](https://github.com/LimEunSeop/bts)
 - [칠성사이다 메인](https://github.com/LimEunSeop/chilsung-cider)
 - [의류 사이트 메인](https://github.com/LimEunSeop/carhartt)
-- [LUSH 상품 메인페이지 협업제작](https://github.com/LimEunSeop/lush)
+
